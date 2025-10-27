@@ -51,7 +51,7 @@ Migration outcomes continuously update the network environment and population st
 
 ## Usage
 
-The main implementation is contained in `network_migration_model.ipynb`, which includes:
+The main implementation is contained in `FinalSimulation.ipynb`, which includes:
 
 1. **Model Setup**: Initialize network environment and user population
 2. **Utility Functions**: Define decision-making criteria
